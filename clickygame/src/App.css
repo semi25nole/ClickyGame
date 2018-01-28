@@ -1,0 +1,49 @@
+.jumbotron {
+  margin-top: 5px;
+    text-align: center;
+    width: 1110px;
+    height: 800px;
+    background-color: inherit;
+    color: white;
+    border-radius: 50px;
+    font-family: 'Indie Flower', cursive;
+    padding-top: 0px;
+}
+
+html, body{
+    background: url("background_clicky.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header {
+    background-color: lightslategray;
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding-top: 15px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: inherit;
+}
+
+#head {
+    background-color: lightslategray;
+    padding-top: 15px;
+    padding-bottom: 2px;
+    font-size: 25px;
+    color: white;
+    font-family: Papyrus, cursive, sans-serif;
+    margin-top: 25px;
+    font-weight: bold;
+}
